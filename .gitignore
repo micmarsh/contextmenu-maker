@@ -1,0 +1,7 @@
+.trigger
+inspector/ios-inspector.*
+inspector/an-inspector.*
+inspector/ios-inspector/ForgeInspector/
+inspector/an-inspector/ForgeCore.bundle/
+inspector/an-inspector/ForgeCore.framework/
+inspector/an-inspector/ForgeInspector/
